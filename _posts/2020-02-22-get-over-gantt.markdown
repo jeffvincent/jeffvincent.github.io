@@ -20,4 +20,4 @@ But building a product is a team sport. There are other people involved, who als
 
 What I believe: there’s a good balance here. A way to think deeply, reduce the risks that are important, communicate well, nail the details - without excluding others. Without losing the focus on creating something for someone to use and find delight in. Without losing the fun that is learning as you go alongside others.
 
-It’s about what you seek to control. I need to let go of the interest in being impressive in all eyes. In fact, to some I might seem to be unimpressive. They want something perfectly buttoned up - delivered on-time and on-budget. That has it’s merits - but when that is focus above having an impact on the user and on the product … it’s worthless. Sorry.
+It’s about what you seek to control. I need to let go of the interest in being impressive in all eyes. In fact, to some I might seem to be unimpressive. They want something perfectly buttoned up - delivered on-time and on-budget. That has it’s merits, for sure - but when that is focus above having an impact on the user and on the product … it’s worthless. Sorry.
