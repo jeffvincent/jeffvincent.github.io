@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Ed."
+---
+
+<div class="introduction">
+  <h1>hi.</h1>
+
+  <p>
+    Writing helps clarify thoughts. Clearer thoughts make for better actions,
+    more impact, better relationships.
+  </p>
+
+  <p>
+    Writing in public is hard. I put a lot of pressure on public writings -
+    nitpicking and editing forever. My thoughts get clearer, but I never actually
+    <strong>published</strong>.
+  </p>
+
+  <p>
+    <i>Less</i> public writing is easier. Let's try that.
+  </p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>posts</h2>
+  <ul class="texts">
+  {% for item in site.posts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
