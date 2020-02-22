@@ -24,7 +24,7 @@ github_username:  jeffvincent
 
 # Build settings
 markdown: kramdown
-theme: ed.
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
