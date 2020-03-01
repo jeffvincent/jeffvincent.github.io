@@ -12,7 +12,7 @@ In my early career, that experience would have sent me _reeling_. I would go on 
 
 That feeling is certainly human - but it also didn’t help that often other leaders rewarded those who poked holes - to the point that people began searching for ways to take down other’s ideas.
 
-At a particular low point, when it seemed I could move no good idea forward, I came upon a book that changed my life: “Self-Esteem at Work” by _____.
+At a particular low point, when it seemed I could move no good idea forward, I came upon a book that changed my life: “Self-Esteem at Work” by Nathaniel Branden.
 
 The essence of the book: doing great creative work requires _risks_, and our workplaces must evolve to encourage and support the taking of those risks. Otherwise, we’ll always stick with what’s known: a surefire way to build something mediocre.
 
