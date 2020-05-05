@@ -2,6 +2,7 @@
 layout: post
 title: getting things done
 published: May 2020
+updated: May 2020
 ---
 
 The recent interview processes brought up a number of good questions, specifically on _how I believe great products get built_. In my responses I started by working through how we did things at Appcues, but that process represented a compromise between how others wanted to do things and how I wanted to do things. While that is a useful exercise (makes sure I was paying attention) what would be more helpful is a clear, concise description of how _I_ would do things.
@@ -10,24 +11,24 @@ It will probably take several posts / attempts, but best to just get started wit
 
 "When a new business goal or objective is communicated, what do you do?"
 
-**Guidelines**
+### Guidelines
 1. Get clear on the why.
 2. I am a part of the team.
 3. Introduce, then take action.
 4. Leverage the skills of others.
 5. Informed, not consensus.
 
-**Artifacts**
+### Artifacts
 1. The opportunity doc: A thematic doc that moves from a high-level objective down into the key levers for improvement. This covers the goal, timeline, and plan of action (as it develops).
 2. The roadmap item: A piece of work we've committed to. Ties back to the opportunity doc, but includes lots more research, iteration, and timing details.
 
-**Step 1: why are we doing this?**
+### 01: why are we doing this?
 
 The most important thing for me to understand is _why are we doing this_, and, relatedly, _why am I excited about doing this?_ The why needs to be in the context of our larger mission or reason for being - I'm a pretty mission-driven person and purpose is what motivates me, so "just because" or "to get paid" is never enough to generate energy.
 
 Of course being excited isn't everything - but I can't effectively lead a team do to this work well unless I am fully committed and have a perspective on it. Sometimes my excitement is what we're going to be able to do _after_ we're done with this work - but still there must be some reason.
 
-**Step 2: Introduce the opportunity**
+### 02: Introduce the opportunity
 
 Once I understand the high-level why and have my perspective on it (why I'm excited to do it) I'm ready to have a team conversation on the topic. The first time a team hears about a new objective _from me_ it's critical that I don't communicate anything beyond 1. what's been from leadership and 2. my current perspective on it. If I'm coming to the table with lots of solutions or additional research, then I'm no longer in the mode to do lots of open-ended questioning - my mind is already on it's way to being made up. It also creates the feeling of me being separate from the team, like I kept this information from them.
 
@@ -37,7 +38,7 @@ So when we're first discussing the opportunity, it is very high-level. It is als
 
 _Sidenote:_ at this stage I've probably had conversations with someone in "leadership" about possible solutions. And my mind might have already jumped to a few ideas. That is OK and normal - but I _cannot_ commit to those. If it's a worthwhile objective, then taking the time to discuss with the team is always the right move, will save SO MUCH time on the backend from having to convince others and bring them along for the ride. Not to mention ideas from teammates are often great and feeling shared ownership over the objective will spur them to action!
 
-**Step 3: Opportunity agreement**
+### 03: Opportunity agreement
 
 Now that we've discussed the opportunity openly, it's time to refine that doc, narrow it in, and make some top-level commitments. For example: the team might have identified holes in the problem statement provided by me / leadership. Or we might have discussed other important work that would need to be prioritized alongside any work proposed for this objective (this happens constantly).
 
@@ -55,7 +56,7 @@ That doc should contain:
 - when do we plan to begin this work?
 - what are our open questions?
 
-**Step 4: Zoom in on the key lever**
+### 04: Zoom in on the key lever
 
 Once the opportunity is well defined and agreed upon, we can zoom in a level, and follow an "opportunity tree" to see what the possible levers for focus are. The goal for this step is to narrow in on a specific problem area, and to give everyone else involved a chance to understand why you're going in that direction.
 
@@ -69,7 +70,7 @@ The final decision to be made at this step is which lever you will focus on firs
 
 Once that final lever is chosen, set up a number of baseline metrics, getting several different perspectives on the current case. You don't need to set _goals_ for those metrics yet, because don't have the baseline! But if you can be gathering data at this stage, it will save you a ton of time and make you more educated as you go along.
 
-**Step 5: Dig in with customer conversations**
+### 05: Dig in with customer conversations
 
 Note: steps 4, 5, and 6 don't always happen in a linear fashion. In particular, research and solutioning can end up overlapping quite a bit as new things are learned. The important takeaway is: some open-ended discussions with your customers about the specific problem you've focused on are _extremely_ valuable before anchoring on a given solution.
 
@@ -77,7 +78,7 @@ My preference is to practice "continuous interviewing", where the product team i
 
 A good outcome for this step is being a bit more informed or validated in your hypotheses, and having some more customer artifacts (emails, screenshots, etc.) that you can add to the opportunity doc. Teammates really value having more real-world context in the customer's own voice.
 
-**Step 6: Diverge, then converge**
+### 06: Diverge, then converge
 
 Now we can be pretty confident we've evaluated the space _together_ (even if the PM/research/design did most of the digging, everyone is informed and had a say). This is really important to me especially, because I'm terrible at just executing on someone else's ideas. If I don't feel bought in, then I'm not bringing my absolute top abilities to the table. So I guess I apply that to others too.
 
@@ -87,11 +88,11 @@ Sketching is valuable - but the more important part is the discussion _afterward
 
 A FAQ: what if people don't _want_ to be part of the previous steps? I'm somewhat flexible on that - I can understand that some people don't want to be in the discussions or do the research - they just want to focus on the execution because it's what they LOVE :heart:. I can respect that - but ask they read and dig into the opportunity doc. Otherwise, they will be uninformed in making all the little choices as part of execution that make the end product more successful. There are things that only become clear as the code gets written - and having an understanding of what we're trying to achieve will allow us to make decisions on those much faster and with more autonomy.
 
-**Step 7: Select, and execute**
+### 07: Select, and execute
 
 No need to get into what "execution" looks like in this post, IMO. Depending on the initiative it could be running experiments, updating existing features, refactoring back-end code, launching new features into beta, etc. What's most important is you clearly select the solution(s) you're going with first, set success criteria for those, and start working out the potential implications. And as [Kevin Kelly suggests](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/), set a deadline. It will force you to make hard decisions much earlier.
 
-**Step 8: Get data early**
+### 08: Get data early
 
 When I was at Wistia we launched a massive marketing campaign. After a whole bunch of spreadsheets and "market research", we started putting creative out there across a number of different channels. It cost a lot of money. The results weren't expected to hit for months. That seems like way too long. If something isn't causing change in the short term, it isn't going to cause change in the long-term. The short-term could be small, of course - but few things go from flat-line to massive growth overnight.
 
