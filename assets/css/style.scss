@@ -2,14 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&family=Work+Sans:wght@500&display=swap');
 
 /* variables */
-$main-font: 'Arial';
-$regular-font-size: 18px;
+$main-font: 'Roboto Mono', monospace;
+$regular-font-size: 17px;
 $text-color: #606c71;
 $link-color: #5C5CFF;
-$heading-font: 'Arial';
-$heading-color: #000;
+$heading-font: 'Work Sans';
+$heading-color: #4B4B4B;
 
 * {
   -webkit-box-sizing: border-box;
@@ -38,7 +39,10 @@ html {
 
 body {
   color: $text-color;
+  font-family: $main-font;
+  font-size: $regular-font-size;
   background-color: #fff;
+  -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -98,7 +102,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1,
 h1.text-title {
-  font-size: 1.4rem;
+  font-size: 2.2rem;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
@@ -112,7 +117,11 @@ h3, h4, h5, h6 {
 }
 
 h3 {
+  font-family: $main-font;
+  font-weight: bold;
   margin-top: 1.5rem;
+  margin-bottom: 1.75rem;
+  font-size: 1.1rem;
 }
 
 
@@ -120,6 +129,13 @@ h3 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+/* I use this for emphasis a lot */
+p code {
+  font-size: ($regular-font-size * 0.85);
+  padding: 4px;
+  background-color: #FFB0D0;
 }
 
 /* Lists */
@@ -206,19 +222,17 @@ tbody tr:nth-child(odd) th {
 */
 
 .masthead {
+  display: flex;
   border-bottom: 1px solid #eee;
+  padding: 26px 0;
   margin-bottom: 3rem;
-  padding-top: 26px;
-  padding-bottom: 1rem;
-  text-align: center;
 }
 
 .masthead-title {
   color: #505050;
   font-family: $main-font;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   line-height: .777em;
-  margin-top: 2em;
   margin-bottom: 0;
   margin-right: 0;
   margin-left: 0;
@@ -234,11 +248,12 @@ tbody tr:nth-child(odd) th {
   letter-spacing: .05rem;
 }
 
-@media (min-width: 320px) {
+@media (max-width: 500px) {
   .masthead-title {
-    margin-top: 2px;
-    margin-right: 15%;
-    margin-left: 15%;
+    text-align: left;
+  }
+  .container {
+    max-width: 500px;
   }
 }
 
@@ -249,6 +264,11 @@ tbody tr:nth-child(odd) th {
 }
 
 /* Other content needs */
+
+.published-date {
+  color: #C0C6D9;
+  font-size: 17px;
+}
 
 .emoji {
   display: inline;
