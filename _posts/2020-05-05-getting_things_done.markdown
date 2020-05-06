@@ -24,7 +24,7 @@ It will probably take several posts / attempts, but best to just get started wit
 
 ### 01: why are we doing this?
 
-The most important thing for me to understand is _why are we doing this_, and, relatedly, _why am I excited about doing this?_ The why needs to be in the context of our larger mission or reason for being - I'm a pretty mission-driven person and purpose is what motivates me, so "just because" or "to get paid" is never enough to generate energy.
+The most important thing for me to understand is `why are we doing this`, and, relatedly, _why am I excited about doing this?_ The why needs to be in the context of our larger mission or reason for being - I'm a pretty mission-driven person and purpose is what motivates me, so "just because" or "to get paid" is never enough to generate energy.
 
 Of course being excited isn't everything - but I can't effectively lead a team do to this work well unless I am fully committed and have a perspective on it. Sometimes my excitement is what we're going to be able to do _after_ we're done with this work - but still there must be some reason.
 
@@ -36,7 +36,7 @@ Instead, at each step I share what I know so far, including my open questions, e
 
 So when we're first discussing the opportunity, it is very high-level. It is also accompanied by a doc that summarizes my understanding so far and links to all relevant resources (I've learned I can be more attentive to company communications / documentation than others). The goal isn't to jump to concrete solutions. The goal is to make sure everyone knows where we are now, what we need to know next, and can ask all questions. As soon as we're jumping past "the opportunity", questions like "why is this valuable for us to do?" get prematurely silenced. One thing I know about myself: when a leader says "jump" and I'm excited, I have a tendency to get right to it. Others on my team tend to be better at pushing back, and I can best leverage that by not being committed to any one solution.
 
-_Sidenote:_ at this stage I've probably had conversations with someone in "leadership" about possible solutions. And my mind might have already jumped to a few ideas. That is OK and normal - but I _cannot_ commit to those. If it's a worthwhile objective, then taking the time to discuss with the team is always the right move, will save SO MUCH time on the backend from having to convince others and bring them along for the ride. Not to mention ideas from teammates are often great and feeling shared ownership over the objective will spur them to action!
+`Sidenote:` at this stage I've probably had conversations with someone in "leadership" about possible solutions. And my mind might have already jumped to a few ideas. That is OK and normal - but I _cannot_ commit to those. If it's a worthwhile objective, then taking the time to discuss with the team is always the right move, will save SO MUCH time on the backend from having to convince others and bring them along for the ride. Not to mention ideas from teammates are often great and feeling shared ownership over the objective will spur them to action!
 
 ### 03: Opportunity agreement
 
@@ -44,7 +44,7 @@ Now that we've discussed the opportunity openly, it's time to refine that doc, n
 
 The _best_ next move is to update the doc to reflect what was discussed so far, and send it to everyone involved. Send it to the team for review, send it to "leadership" (whatever that means in this case) for input. It is worth the extra time at this stage to make sure everyone is aligned. Better to push for alignment and proper prioritization of the *opportunity* than *the solution*. Avoids a ton of back-and-forth and "backseat driving".
 
-That doc should contain:
+**That doc should contain:**
 
 - statement of the opportunity
 - what problem does this solve?
@@ -74,7 +74,7 @@ Once that final lever is chosen, set up a number of baseline metrics, getting se
 
 Note: steps 4, 5, and 6 don't always happen in a linear fashion. In particular, research and solutioning can end up overlapping quite a bit as new things are learned. The important takeaway is: some open-ended discussions with your customers about the specific problem you've focused on are _extremely_ valuable before anchoring on a given solution.
 
-My preference is to practice "continuous interviewing", where the product team is talking to customers in a more open-ended way on a weekly/bi-weekly cadence. Setting up a system where you have customers to talk to constantly without strict agenda makes you more aware of what **their real problems are**, as opposed to being driven by what _your_ agenda is at any given time. That's a good thing. I should write more about that topic separately.
+My preference is to practice "continuous interviewing", where the product team is talking to customers in a more open-ended way on a weekly/bi-weekly cadence. Setting up a system where you have customers to talk to constantly without strict agenda makes you more aware of what `their real problems are`, as opposed to being driven by what _your_ agenda is at any given time. That's a good thing. I should write more about that topic separately.
 
 A good outcome for this step is being a bit more informed or validated in your hypotheses, and having some more customer artifacts (emails, screenshots, etc.) that you can add to the opportunity doc. Teammates really value having more real-world context in the customer's own voice.
 
@@ -96,4 +96,4 @@ No need to get into what "execution" looks like in this post, IMO. Depending on 
 
 When I was at Wistia we launched a massive marketing campaign. After a whole bunch of spreadsheets and "market research", we started putting creative out there across a number of different channels. It cost a lot of money. The results weren't expected to hit for months. That seems like way too long. If something isn't causing change in the short term, it isn't going to cause change in the long-term. The short-term could be small, of course - but few things go from flat-line to massive growth overnight.
 
-The same applies here: set your milestones before you launch something, so you know if you're on track to start moving the success metrics your objective rests on (which tend to be backwards looking and take time to accumulate). If you know what you're looking out for, and have those baseline metrics in place, you're in a better position to have a conversation immediately: what's going well, what's not going well. Have a _hypothesis_ about what will happen in the short-term. Even if you're wrong, that will mean you can learn something. And if you're right - you should still dig in. Richard Feynman mentions the rats finding cheese experiment he heard about - where it seemed like the rats were going into the same room in a maze again and again. Easy to assume it was where the cheese was hidden. Turns out (I'm absolutely butchering this story in the paraphrasing) it was the creak in the floorboards outside that particular door in the maze. Even when you're successful: dig in and understand your success. That will make you confident you've actually learned something!
+The same applies here: set your milestones before you launch something, so you know if you're on track to start moving the success metrics your objective rests on (which tend to be backwards looking and take time to accumulate). If you know what you're looking out for, and have those baseline metrics in place, you're in a better position to have a conversation immediately: what's going well, what's not going well. `Have a _hypothesis_ about what will happen in the short-term`. Even if you're wrong, that will mean you can learn something. And if you're right - you should still dig in. Richard Feynman mentions the rats finding cheese experiment he heard about - where it seemed like the rats were going into the same room in a maze again and again. Easy to assume it was where the cheese was hidden. Turns out (I'm absolutely butchering this story in the paraphrasing) it was the creak in the floorboards outside that particular door in the maze. Even when you're successful: dig in and understand your success. That will make you confident you've actually learned something!
