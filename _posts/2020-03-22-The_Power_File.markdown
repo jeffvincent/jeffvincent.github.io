@@ -2,6 +2,7 @@
 layout: post
 title: The Power File
 published: March 2020
+updated: March 2020
 ---
 
 I go through periods where I feel absolutely useless. Everything I try is met with resistance. I look at my to-do list, and it feels empty of purpose. I struggle to get up. I’m wandering around in a fog.

@@ -2,6 +2,7 @@
 layout: post
 title: Momentum built on self esteem
 published: March 2020
+updated: March 2020
 ---
 
 Every week, at least once or twice, I get totally blindsided by a question.

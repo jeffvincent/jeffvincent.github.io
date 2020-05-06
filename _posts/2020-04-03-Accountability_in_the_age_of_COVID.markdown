@@ -2,6 +2,7 @@
 layout: post
 title: Accountability in the age of COVID
 published: April 2020
+updated: April 2020
 ---
 
 Big ol’ caveat off the top - a lot of people lost their jobs as part of this pandemic, so this problem is certainly a nice problem to have.

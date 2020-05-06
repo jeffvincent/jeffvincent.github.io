@@ -2,6 +2,7 @@
 layout: post
 title: Get over Gantt
 published: February 2020
+updated: February 2020
 ---
 
 I find myself flipping back and forth from trying to be a “traditional Product Manager” and being myself.
