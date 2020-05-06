@@ -11,11 +11,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }}
-    {% endif %}
+    {{ site.title }} - {{ page.title }}
   </title>
 
   <!-- Dublin Core metadata for Zotero -->
