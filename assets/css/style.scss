@@ -72,10 +72,6 @@ body {
 }
 
 /* Links */
-a, .text-title a {
-  color: $link-color;
-  text-decoration: none;
-}
 
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
@@ -124,19 +120,27 @@ h3 {
   font-size: 1.1rem;
 }
 
-
 /* Body text */
 p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
 
+p code, p a {
+  font-size: ($regular-font-size - 1px);
+  padding: 4px;
+}
+
 /* I use this for emphasis a lot */
 p code {
-  font-size: ($regular-font-size * 0.85);
-  padding: 4px;
   background-color: #FFB0D0;
 }
+
+p a {
+  color: $text-color;
+  background-color: #D7D7FF;
+}
+
 
 /* Lists */
 ul {
@@ -281,6 +285,6 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 5px;
 }
 
-.posts .post-title a {
-  
+.toc h2 {
+  margin-bottom: 1.4rem;
 }
