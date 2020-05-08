@@ -1,0 +1,35 @@
+---
+layout: post
+title: Just Say ... Maybe
+published: May 2020
+updated: May 2020
+---
+
+# Just Say … Maybe
+The classic PM advice is: get good at saying *no*. The key to success, as it goes, is to say “no” to any and all ideas that don’t exactly match your current core focus. It’s a way to keep teams and organizations incredibly focused, which leads to faster more efficient work - or so the story goes.
+
+Couple things.
+
+First, this _destroys_ product leader relationships with other parts of the organization. Straight up “no” offers these creative problem solvers nowhere credible to go with their ideas. It’s demoralizing, and creates the feeling your product is and will forever be small. That will drive out the most entrepreneurial of these teammates.
+
+Second, it shuts your own brain off from thinking about possibilities. Great features don’t just pop into existence, and they are rarely driven by OKRs. Instead, the idea has to germinate, sometimes for months or even years, before it’s time to take action.
+
+Third, it’s imperative the feedback from customers makes it back to the product team - otherwise it’s easy to head in the wrong direction. Once you make it clear you’re going to say “no” immediately, product feedback will stop coming in.
+
+Yes, you need to set expectations for what you’ll actually deliver, and yes, there is considerable nuance in saying “maybe someday” as essentially a “no for now”. Saying “maybe” alone can make your product seem shapeless, directionless.  But “just say no” is destructive advice.
+
+It’s up to product leadership (with lots of input from the team) to develop a perspective and vision for where the product could go - and treat investments as experiments toward that vision. The is always a horizon where that vision starts to turn vague and uncertain. But even in the uncertain space, there are some things that can be deemed “in bounds” and “out”.
+
+Example: if you currently focus on serving non-technical users, and a more technical feature is adopted, take the opportunity to think it through strategically. Will you need that more technical audience soon? Does your product naturally move non-technical people in a technical direction? Do most of your customers work closely with technical users (so product spread and adoption of this group is easier)? That might be a good case for a maybe - with a rational explanation for why. But if your mission is to permanently reduce and remove technical work from achieving the outcome, this should be a clear *no*.
+
+Ryan Singer of Basecamp covers this well in [Shape Up](https://basecamp.com/shapeup/1.2-chapter-03):
+
+> Our default response to any idea that comes up should be: “Interesting. Maybe some day.” In other words, a very soft “no” that leaves all our options open. We don’t put it in a backlog. We give it space so we can learn whether it’s really important and what it might entail.
+
+> It’s too early to say “yes” or “no” on first contact. Even if we’re excited about it, we shouldn’t make a commitment that we don’t yet understand. We need to do work on the idea before it’s shaped enough to bet resources on. If we always say “yes” to incoming requests we’ll end up with a giant pile of work that only grows.
+
+What’s needed is a system that takes in raw requests, pulls out the motivation and problem to solve, and add it to your understanding of what customers desire. If it comes up often, that gives it additional weight and informs your prioritization.
+
+The key is NOT to build whatever the customer requests. That’s a surefire way to build something mediocre. But it’s also not to put horse blinders on your teammates by saying “no” and pushing for constant focus. We’re just not good like that as humans.
+
+Instead, there’s a balance to set between clarity of what’s important now, and the continual adventure of exploring the problem space. How could we make our current product better? What new problems could we solve? What big opportunities are still untapped, and how might we test out the value there? Having these big questions floating around gives the team plenty of space to work in and feel fully engaged. It’s a wonderful place to be.
