@@ -5,7 +5,6 @@ published: May 2020
 updated: May 2020
 ---
 
-# Just Say … Maybe
 The classic PM advice is: get good at saying *no*. The key to success, as it goes, is to say “no” to any and all ideas that don’t exactly match your current core focus. It’s a way to keep teams and organizations incredibly focused, which leads to faster more efficient work - or so the story goes.
 
 Couple things.
